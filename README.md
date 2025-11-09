@@ -1,12 +1,12 @@
 # projeto-cadastro
-Projeto final das aulas do curso de CSS do Elas+Tech (Ada), trilha FrondEnd.
+Projeto final das aulas do curso de CSS do Elas+Tech (Ada), trilha FrondEnd Básico.
 
 ## Tecnologias utilizadas
 - HTML
 - CSS
 
 ## Funcionalidades
-- Cadastro
+- 
 
 ## Como executar o projeto
 1. Clone o repositório
